@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+title: Jason's Blog
+email: jacklee95@naver.com
+description: Algorithm, AI Paper Summary (CVPR, ECCV, ICCV, ICLR, ICML, NIPS)
+url: https://jasonlee1995.github.io/
+keywords: ["Algorithm", "AI", "Computer Vision", "CVPR", "ECCV", "ICCV", "ICLR", "ICML", "NIPS"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Jason
+  avatar: avatar.jpg
+  job: "Computer Vision Development Researcher"
+  bio: "Exploring the Principles of AI"
+  email: jacklee95@naver.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: Jasonlee1995
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username

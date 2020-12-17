@@ -22,18 +22,18 @@
   padding: 0 30px;
   .avatar {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     float: none;
     @include media-query($medium-screen) {
-      margin-right: 0;
+      margin-right: 0 auto;
     }
   }
   .author_name {
     display: block;
     color: #F36170;
     font-size: 1.75em;
-    text-transform: lowercase;
+    text-transform: uppercase;
   }
   .author_job {
     display: block;
