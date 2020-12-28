@@ -1,4 +1,5 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Autonomous Walking Robot based on Jansen
+  descr: "This project follows the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
+          Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/kbdlab/walking_robot
