@@ -1,4 +1,4 @@
-- name: Autonomous Walking Robot based on Jansen
+- name: Autonomous Walking Robot
   descr: "This project follows the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
           Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   image: pong.png
