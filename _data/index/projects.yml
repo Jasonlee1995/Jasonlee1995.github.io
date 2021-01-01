@@ -1,5 +1,10 @@
-- name: Autonomous Walking Robot
+- name: [2019] Autonomous Walking Robot
   descr: "This project follows the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
           Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   image: pong.png
   github: https://github.com/kbdlab/walking_robot
+
+- name: [2018] Self-driving Robot
+  descr: "This project was supported by Hyundai AutoEver on 2018.
+          Use LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
+  site: http://hyundaiautoeversmart.com/
