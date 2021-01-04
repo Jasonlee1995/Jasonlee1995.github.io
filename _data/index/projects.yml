@@ -1,8 +1,14 @@
 - name: Autonomous Walking Robot (2019)
-  descr: "This project follows the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019. Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
+  descr: "This project followed the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
+          Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   github: https://github.com/kbdlab/walking_robot
 
+- name: Sepsis Prediction AI (2018)
+  descr: "This project was done when I was an intern at KBD lab, supported by KIST, 2018.
+          Experimented with various neural networks for predicting sepsis with MIMIC-3 dataset."
+  website: https://kbd.yonsei.ac.kr/
+
 - name: Self-driving Robot (2018)
-  descr: "This project was supported by Hyundai AutoEver on 2018.
+  descr: "This project was supported by Hyundai AutoEver, 2018.
           Use LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
   website: http://hyundaiautoeversmart.com/
