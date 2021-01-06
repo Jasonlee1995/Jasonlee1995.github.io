@@ -3,8 +3,8 @@
           Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   github: https://github.com/kbdlab/walking_robot
 
-- name: Sepsis Prediction AI (2018)
-  descr: "This project was done when I was an intern at KBD lab, supported by KIST, 2018.
+- name: Sepsis Prediction AI (2019)
+  descr: "This project was done when I was an intern at KBD lab, supported by KIST, 2019.
           Experimented with various neural networks for predicting sepsis with MIMIC-3 dataset."
   website: https://kbd.yonsei.ac.kr/
 
