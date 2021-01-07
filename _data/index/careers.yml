@@ -1,8 +1,13 @@
 # careers section data
-- name: TmaxSoft
+- name: TmaxAI
   link: https://kr.tmaxsoft.com/main.do
   date: Dec 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: TmaxAI Computer Vision R&D Development Researcher
+  job: Computer Vision R&D Development Researcher
+
+- name: SOTALabs
+  link:
+  date: Sep 2020 - Nov 2020
+  job: AI Development Researcher
 
 - name: Computer Vision Lab
   link: https://cvlab.yonsei.ac.kr/
