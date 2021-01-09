@@ -8,6 +8,8 @@
           Experimented with various neural networks for predicting sepsis with MIMIC-3 dataset."
   website: https://kbd.yonsei.ac.kr/
 
+
+
 - name: Self-driving Robot (2018)
   descr: "This project was supported by Hyundai AutoEver, 2018.
           Use LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
@@ -17,3 +19,8 @@
   descr: "This project was done when I was an intern at MES lab, 2018.
           Make energy conversion thermodynamic analysis system using C++."
   website: https://sites.google.com/site/meslabyonsei/
+
+- name: Reflector : LINE GAME AWARDS - 2nd place (2018)
+  descr: "This project won 2nd place on LINE GAME AWARDS as team, supported by LINE, 2018 winter.
+          Make mobile 2D shooting game using Unity."
+  website: https://poolc.org/project/10
