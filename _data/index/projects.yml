@@ -8,7 +8,10 @@
           Experimented with various neural networks for predicting sepsis with MIMIC-3 dataset."
   website: https://kbd.yonsei.ac.kr/
 
-
+- name: 보오색슈터 : NDM AWARDS - 1st place (2019)
+  descr: "This project won 1st place on NDM as university, supported by NEXON, 2019 summer.
+          Make top-view mobile 2D shooting game using Unity."
+  website: https://poolc.org/project/12
 
 - name: Self-driving Robot (2018)
   descr: "This project was supported by Hyundai AutoEver, 2018.
