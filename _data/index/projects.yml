@@ -1,6 +1,6 @@
 - name: Autonomous Walking Robot (2019)
   descr: "This project followed the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
-          Design the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
+          Designed the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
   github: https://github.com/kbdlab/walking_robot
 
 - name: Sepsis Prediction AI (2019)
@@ -8,22 +8,22 @@
           Experimented with various neural networks for predicting sepsis with MIMIC-3 dataset."
   website: https://kbd.yonsei.ac.kr/
 
-- name: 보오색슈터 : NDM AWARDS - 1st place (2019)
+- name: 보오색슈터 (2019)
   descr: "This project won 1st place on NDM as university, supported by NEXON, 2019 summer.
-          Make top-view mobile 2D shooting game using Unity."
+          Made top-view mobile 2D shooting game using Unity."
   website: https://poolc.org/project/12
 
 - name: Self-driving Robot (2018)
   descr: "This project was supported by Hyundai AutoEver, 2018.
-          Use LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
+          Used LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
   website: http://hyundaiautoeversmart.com/
 
 - name: Energy Conversion Thermodynamic Analysis System (2018)
   descr: "This project was done when I was an intern at MES lab, 2018.
-          Make energy conversion thermodynamic analysis system using C++."
+          Made energy conversion thermodynamic analysis system using C++."
   website: https://sites.google.com/site/meslabyonsei/
 
-- name: Reflector : LINE GAME AWARDS - 2nd place (2018)
+- name: Reflector (2018)
   descr: "This project won 2nd place on LINE GAME AWARDS as team, supported by LINE, 2018 winter.
-          Make mobile 2D shooting game using Unity."
+          Made mobile 2D shooting game using Unity."
   website: https://poolc.org/project/10
