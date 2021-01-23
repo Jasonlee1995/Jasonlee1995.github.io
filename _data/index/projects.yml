@@ -3,6 +3,11 @@
           Made machine learning pipeline for all the experiments. Checkout the link for more details of paper."
   website: https://pubmed.ncbi.nlm.nih.gov/32827069/#affiliation-3
 
+- name: Generate Rotated Images (2020)
+  descr: "This project was done when I was an intern at startup, (주)누아, 2020.
+          Generate rotated images of tourist attraction images using lots of GAN models with noise interpolation."
+  website: https://www.rocketpunch.com/companies/ju-nua
+
 - name: Autonomous Walking Robot (2019)
   descr: "This project followed the course of MEU3300-01, Creative Design Project 2, Yonsei University, 2019.
           Designed the robot based on the Jansen mechanism and made a direction decision algorithm that could autonomously walk on a specific map."
