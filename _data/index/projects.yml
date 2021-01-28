@@ -1,3 +1,15 @@
+- name: 2020 NIPA Final Competition (2020)
+  descr: "This competition was supported by nipa and KB insurance, 2020.
+          Won 1st place on final competition on KB insurance task, predicting risk of building."
+  github: https://github.com/Jasonlee1995/2020_NIPA
+  website: https://ai-korea.kr/main/main.do
+
+- name: 2020 NIPA Preliminary Competition (2020)
+  descr: "This competition was supproted by nipa, 2020.
+          Won 1st place on preliminary competition, predicting plant and plant disease."
+  github: https://github.com/Jasonlee1995/2020_NIPA
+  website: https://ai-korea.kr/main/main.do
+
 - name: Music Mood Recommendation (2020)
   descr: "This project was done when I was an intern at NAVER, 2020.
           Make modules for NAVER VIBE music mood recommendation system using music mel-spectogram with CNN."
