@@ -10,6 +10,11 @@
   github: https://github.com/Jasonlee1995/2020_NIPA
   website: https://ai-korea.kr/main/main.do
 
+- name: Fashion Image Retrieval (2020)
+  descr: "This project was done when I worked at SOTALabs, 2020.
+          Make modules for image retrieval using iMaterialist Challenge on Fashion 2018."
+  github: https://github.com/Jasonlee1995/iMat_Fashion_2018
+
 - name: Music Mood Recommendation (2020)
   descr: "This project was done when I was an intern at NAVER, 2020.
           Make modules for NAVER VIBE music mood recommendation system using music mel-spectogram with CNN."
@@ -55,7 +60,7 @@
           Used LEGO MINDSTORMS EV3 for making robot and made a direction decision algorithm that could autonomously drive on a specific map."
   website: http://hyundaiautoeversmart.com/
 
-- name: Energy Conversion Thermodynamic Analysis System (2018)
+- name: Thermodynamic Analysis System (2018)
   descr: "This project was done when I was an intern at MES lab, 2018.
           Made energy conversion thermodynamic analysis system using C++."
   website: https://sites.google.com/site/meslabyonsei/
