@@ -2,7 +2,7 @@
 layout: post
 title: Brief Paper Review - ImageNet Classification with Deep Convolutional Neural Networks
 excerpt: "2012 NIPS Spotlight, Classification"
-categories: [2012 NIPS, Spotlight, Classification, Paper Review, Brief Paper Review]
+categories: [2012 NIPS, Spotlight, Classification, Brief Paper Review]
 comments: true
 ---
 

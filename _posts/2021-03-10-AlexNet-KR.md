@@ -2,7 +2,7 @@
 layout: post
 title: 간단 논문 리뷰 - ImageNet Classification with Deep Convolutional Neural Networks
 excerpt: "2012 NIPS Spotlight, Classification"
-categories: [2012 NIPS, Spotlight, Classification, Paper Review, 간단 논문 리뷰]
+categories: [2012 NIPS, Spotlight, Classification, 간단 논문 리뷰]
 comments: true
 ---
 
