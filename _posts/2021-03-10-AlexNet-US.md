@@ -22,7 +22,7 @@ AlexNet was able to be created cause of large dataset like ImageNet and evolutio
 
 Combinations of conv, pool, and fc layer produce the best performance at that time, and check AlexNet architecture below.
 
-![AlexNet Architecture](../../../../img/210310_AlexNet/Figure_01.png)
+![AlexNet Architecture](../../../../img/210310_AlexNet/Figure_1.png)
 
 The following 3 contents were conceptually difficult while reading the paper.
 
