@@ -9,7 +9,7 @@ comments: true
 
 # 1. Intro
 
-This paper review is brief review of the paper, so it does not contain all the contents of the paper.
+This post is brief review of the paper, so it does not contain all the contents of the paper.
 
 Check-out more details and contents from original paper or [`github`](https://github.com/Jasonlee1995/AI_Papers/issues/1).
 
