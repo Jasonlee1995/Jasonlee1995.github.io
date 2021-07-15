@@ -65,9 +65,10 @@ content:
     layout: list
     content:
       - layout: left
-        title: YONSEI University, Seoul
+        title: YONSEI University
         sub_title: BA on Mechanical Engineering
         caption: 2014.03 - 2021.02
+        link: https://www.yonsei.ac.kr/sc/
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   - title: Careers
@@ -80,8 +81,18 @@ content:
         link: https://www.tmax.co.kr/tmaxai
         #quote: >
         #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          - Research on Augmentation for OCR |
+        description: #| # this will include new lines to allow paragraphs
+          - Research Field 1. AutoAugment for detection
+          - Research Field 2. Table Recognition using detection
+        title: TmaxAI
+        sub_title: Computer Vision Researcher
+        caption: 2020.12 - present
+        link: https://www.tmax.co.kr/tmaxai
+        #quote: >
+        #  Short description of the company (optional)
+        description: #| # this will include new lines to allow paragraphs
+          - Research Field 1. AutoAugment for detection
+          - Research Field 2. Table Recognition using detection
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
