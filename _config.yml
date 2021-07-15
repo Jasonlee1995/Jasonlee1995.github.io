@@ -53,12 +53,13 @@ orcid_username:
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Highly motivated on learning new things related with computer vision.
+  Always welcome for discussions and suggestions.
 
-  I'm working with
-  - [<mark>TmaxAI</mark>](https://www.tmax.co.kr/tmaxai) as computer vision researcher
-  - [<mark>VI Lab</mark>](https://sites.google.com/yonsei.ac.kr/vi-lab/) as research intern
-  - [<mark>PoolC</mark>](https://poolc.org/intro) as computer vision seminar, study team leader
-  - [<mark>DIYA</mark>](https://blog.diyaml.com/) as computer vision seminar, study team leader
+  Currently I'm working as
+  - computer vision researcher on [<mark>TmaxAI</mark>](https://www.tmax.co.kr/tmaxai)
+  - research intern on [<mark>VI Lab</mark>](https://sites.google.com/yonsei.ac.kr/vi-lab/)
+  - computer vision seminar, study team leader on [<mark>PoolC</mark>](https://poolc.org/intro)
+  - computer vision seminar, study team leader on [<mark>DIYA</mark>](https://blog.diyaml.com/)
 
 content:
   - title: Education
@@ -72,7 +73,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   - title: Careers
-    layout: text
+    layout: list
     content:
       - layout: left
         title: TmaxAI
