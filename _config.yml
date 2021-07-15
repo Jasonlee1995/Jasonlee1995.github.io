@@ -72,9 +72,21 @@ content:
         link: https://www.yonsei.ac.kr/sc/
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
+
   - title: Careers
     layout: list
     content:
+      - layout: left
+        title: Visual Intelligence Lab
+        sub_title: Research Intern
+        caption: 2021.06 - present
+        link: https://sites.google.com/yonsei.ac.kr/vi-lab/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research Field 1. GAN Detection
+          - Research Field 2. Adversarial Attack
+
       - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
@@ -83,16 +95,75 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Research Field 1. AutoAugment for detection
-          - Research Field 2. Table Recognition using detection
-        title: LIKELION
-        sub_title: AI Assistant Instructor
-        caption: 2020.12 - present
-        link: https://www.likelion.net/
+          - Research Field 1. AutoAugment for Detection
+          - Research Field 2. Table Recognition
+
+      - layout: left
+        title: SOTALabs
+        sub_title: Computer Vision Researcher
+        caption: 2020.09 - 2020.11
+        link: https://www.rocketpunch.com/companies/sotalabs
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - AI Assistant Instructor for newbies
+          - Research Field 1. Fashion Image Retrieval
+          - Research Field 2. Image Tagging
+
+      - layout: left
+        title: Computer Vision Lab
+        sub_title: Undergraduate Research Intern
+        caption: 2020.07 - 2020.08
+        link: https://cvlab.yonsei.ac.kr/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research Field 1. Person Re-Identification
+          - Research Field 2. Pedestrian Attribute Recognition
+
+      - layout: left
+        title: NAVER Corporation
+        sub_title: AI-Rush Intern
+        caption: 2020.08 - 2020.08
+        link: https://www.naver.com/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research Field 1. Mislabeled Image Classification
+          - Research Field 2. Music Genre Classification
+
+      - layout: left
+        title: SEVERANCE Hospital
+        sub_title: Undergraduate Research Intern
+        caption: 2020.04 - 2020.06
+        link: https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346
+        quote: >
+          Work under professor Ahn
+        description: | # this will include new lines to allow paragraphs
+          - Papaer Published on Neuroradiology [[paper]](https://pubmed.ncbi.nlm.nih.gov/32827069/)
+          - Research Field 1. X-ray Image Joint Detection
+          - Research Field 2. Brain Tumor Image Segmentation and Classification
+
+    - layout: left
+      title: Knowledge Based Design Lab
+      sub_title: Undergraduate Research Intern
+      caption: 2019.01 - 2020.06
+      link: https://kbd.yonsei.ac.kr/
+      #quote: >
+      #  Work under professor Ahn
+      description: | # this will include new lines to allow paragraphs
+        - Research Field 1. SEPSIS Prediction
+        - Research Field 2. Autonomous Driving
+
+    - layout: left
+      title: (주)누아
+      sub_title: Research Intern
+      caption: 2019.12 - 2020.01
+      link: https://www.rocketpunch.com/companies/ju-nua/jobs
+      #quote: >
+      #  Work under professor Ahn
+      description: | # this will include new lines to allow paragraphs
+        - Research Field 1. Rotated Image Generation
+        - Research Field 2. Subword Tokenizer for Korean
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,6 +184,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
 
+  - title: Other Activities
+    layout: list
+    content:
+      - layout: left
+        title: LIKELION
+        sub_title: AI Assistant Instructor
+        caption: 2020.10 - 2020.12
+        link: https://www.likelion.net/
 
   #- title: A Little More About Me
     #layout: text
