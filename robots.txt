@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jasonlee1995.github.io/sitemap.xml
