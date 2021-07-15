@@ -6,9 +6,9 @@ favicon: images/avatar.png
 version: 2
 
 # Personal info
-name: Jason Lee
+name: Jae Seong Lee
 title: Computer Vision Researcher
-# email: jacklee95@naver.com
+email: jacklee95@naver.com
 # email_title: Email (Email title override)
 phone:
 # phone_title: Phone (Phone title override)
@@ -16,7 +16,7 @@ website:
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username:
@@ -50,7 +50,7 @@ orcid_username:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/Jason.JPG
+about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -61,6 +61,28 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: YONSEI University, Seoul
+        sub_title: BA on Mechanical Engineering
+        caption: 2014.03 - 2021.02
+        #description: | # this will include new lines to allow paragraphs
+        #  Description of qualification
+  - title: Careers
+    layout: list
+    content:
+      - layout: left
+        title: TmaxAI
+        sub_title: Computer Vision Researcher
+        caption: 2020.12 - present
+        link: https://www.tmax.co.kr/tmaxai
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research on Augmentation for OCR |
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -79,38 +101,17 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+  #- title: A Little More About Me
+    #layout: text
+    #content: | # this will include new lines to allow paragraphs
+    #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+    #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
