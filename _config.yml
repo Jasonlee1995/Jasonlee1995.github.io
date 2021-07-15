@@ -74,7 +74,7 @@ content:
   - title: Careers
     layout: text
     content:
-      - layout: list
+      - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
         caption: 2020.12 - present
