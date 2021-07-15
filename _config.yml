@@ -86,7 +86,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. GAN Detection
           - Research Field 2. Adversarial Attack
-
       - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
@@ -97,7 +96,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. AutoAugment for Detection
           - Research Field 2. Table Recognition
-
       - layout: left
         title: SOTALabs
         sub_title: Computer Vision Researcher
@@ -108,7 +106,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. Fashion Image Retrieval
           - Research Field 2. Image Tagging
-
       - layout: left
         title: Computer Vision Lab
         sub_title: Undergraduate Research Intern
@@ -119,7 +116,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. Person Re-Identification
           - Research Field 2. Pedestrian Attribute Recognition
-
       - layout: left
         title: NAVER Corporation
         sub_title: AI-Rush Intern
@@ -130,7 +126,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. Mislabeled Image Classification
           - Research Field 2. Music Genre Classification
-
       - layout: left
         title: SEVERANCE Hospital
         sub_title: Undergraduate Research Intern
@@ -142,7 +137,6 @@ content:
           - Papaer Published on Neuroradiology [[paper]](https://pubmed.ncbi.nlm.nih.gov/32827069/)
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
-
     - layout: left
       title: Knowledge Based Design Lab
       sub_title: Undergraduate Research Intern
@@ -153,7 +147,6 @@ content:
       description: | # this will include new lines to allow paragraphs
         - Research Field 1. SEPSIS Prediction
         - Research Field 2. Autonomous Driving
-
     - layout: left
       title: (주)누아
       sub_title: Research Intern
@@ -164,7 +157,6 @@ content:
       description: | # this will include new lines to allow paragraphs
         - Research Field 1. Rotated Image Generation
         - Research Field 2. Subword Tokenizer for Korean
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -183,7 +175,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-
   - title: Other Activities
     layout: list
     content:
