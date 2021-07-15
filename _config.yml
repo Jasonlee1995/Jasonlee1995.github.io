@@ -51,14 +51,13 @@ orcid_username:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avatar.png
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+about_content: #| # this will include new lines to allow paragraphs
+  Highly motivated on learning new things related with computer vision.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I'm working with
+  - <mark>[TmaxAI](https://www.tmax.co.kr/tmaxai)</mark> as computer vision researcher
+  - <mark>[VI Lab](https://sites.google.com/yonsei.ac.kr/vi-lab/)</mark> as research intern
+  - <mark>[PoolC](https://poolc.org/intro)</mark> as
 
 content:
   - title: Education
@@ -72,7 +71,7 @@ content:
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   - title: Careers
-    layout: list
+    layout: text
     content:
       - layout: left
         title: TmaxAI
@@ -84,10 +83,10 @@ content:
         description: #| # this will include new lines to allow paragraphs
           - Research Field 1. AutoAugment for detection
           - Research Field 2. Table Recognition using detection
-        title: TmaxAI
-        sub_title: Computer Vision Researcher
+        title: LIKELION
+        sub_title: AI Assistant Instructor
         caption: 2020.12 - present
-        link: https://www.tmax.co.kr/tmaxai
+        link: https://www.likelion.net/
         #quote: >
         #  Short description of the company (optional)
         description: #| # this will include new lines to allow paragraphs
