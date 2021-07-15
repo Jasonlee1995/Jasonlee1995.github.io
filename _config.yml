@@ -134,10 +134,11 @@ content:
         title: SEVERANCE Hospital
         sub_title: Undergraduate Research Intern
         caption: 2020.04 - 2020.06
-        link: https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346
-        quote: >
-          Work under professor Ahn
+        link: https://sev.severance.healthcare/sev/index.do
+        #quote: >
+        #  Work under professor Ahn
         description: | # this will include new lines to allow paragraphs
+          - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
           - Papaer Published on Neuroradiology [[paper]](https://pubmed.ncbi.nlm.nih.gov/32827069/)
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
