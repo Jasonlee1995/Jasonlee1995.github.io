@@ -72,7 +72,6 @@ content:
         link: https://www.yonsei.ac.kr/sc/
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
-
   - title: Careers
     layout: list
     content:
