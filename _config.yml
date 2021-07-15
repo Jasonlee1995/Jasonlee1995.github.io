@@ -51,13 +51,14 @@ orcid_username:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avatar.png
-about_content: #| # this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs
   Highly motivated on learning new things related with computer vision.
 
   I'm working with
   - <mark>[TmaxAI](https://www.tmax.co.kr/tmaxai)</mark> as computer vision researcher
   - <mark>[VI Lab](https://sites.google.com/yonsei.ac.kr/vi-lab/)</mark> as research intern
-  - <mark>[PoolC](https://poolc.org/intro)</mark> as
+  - <mark>[PoolC](https://poolc.org/intro)</mark> as computer vision seminar, study team leader
+  - <mark>[DIYA](https://blog.diyaml.com/)</mark> as computer vision seminar, study team leader
 
 content:
   - title: Education
@@ -73,14 +74,14 @@ content:
   - title: Careers
     layout: text
     content:
-      - layout: left
+      - layout: list
         title: TmaxAI
         sub_title: Computer Vision Researcher
         caption: 2020.12 - present
         link: https://www.tmax.co.kr/tmaxai
         #quote: >
         #  Short description of the company (optional)
-        description: #| # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           - Research Field 1. AutoAugment for detection
           - Research Field 2. Table Recognition using detection
         title: LIKELION
@@ -89,9 +90,8 @@ content:
         link: https://www.likelion.net/
         #quote: >
         #  Short description of the company (optional)
-        description: #| # this will include new lines to allow paragraphs
-          - Research Field 1. AutoAugment for detection
-          - Research Field 2. Table Recognition using detection
+        description: | # this will include new lines to allow paragraphs
+          - AI Assistant Instructor for newbies
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
