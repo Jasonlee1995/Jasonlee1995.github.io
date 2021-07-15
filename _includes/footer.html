@@ -1,3 +1,9 @@
-<footer>
-  &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a></i>
-</footer>
+<div class="container footer-container">
+  <p>
+    {{ site.name | escape }} -
+    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+    {%- if site.footer_show_references -%}
+      &nbsp;- {{ site.references_title | default: "References on request" }}
+    {%- endif -%}
+  </p>
+</div>
