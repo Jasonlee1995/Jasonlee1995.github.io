@@ -169,20 +169,44 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: 2020 NIPA Competition
+        link: https://ai-korea.kr/main/main.do
+        #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Source Codes
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://ai-korea.kr/main/main.do
+        #quote: >
+        #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Final Competition : 1st place on KB insurance task
+          - Preliminary Competition : 1st place
+      - layout: left
+        title: 2019 Summer NDM Contest
+        link: https://cafe.naver.com/nexonndm
+        #link_text: Link Text
+        additional_links:
+          - title: Project Link
+            #icon: fab fa-github
+            url: https://poolc.org/project/12
+        #quote: >
+        #  Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - 1st place as university
+          - Top-view mobile 2D shooting game with Unity
+      - layout: left
+        title: 2018 Summer LINE Game Development Club Contest
+        link: https://linepluscorp.com/
+        #link_text: Link Text
+        additional_links:
+          - title: Project Link
+            #icon: fab fa-github
+            url: https://poolc.org/project/10
+        #quote: >
+        #  Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          - 2nd place as team
+          - Mobile 2D shooting game with Unity
   - title: Other Activities
     layout: list
     content:
@@ -191,6 +215,11 @@ content:
         sub_title: AI Assistant Instructor
         caption: 2020.10 - 2020.12
         link: https://www.likelion.net/
+      - layout: left
+        title: HYUNDAI AutoEver
+        sub_title: Smart Mobility HW & SW Mentor
+        caption: 2018.08 - 2018.10
+        link: http://hyundaiautoeversmart.com/
 
   #- title: A Little More About Me
     #layout: text
