@@ -169,18 +169,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2020 NIPA Competition
+        title: 2020 NIPA AI Competition
         link: https://ai-korea.kr/main/main.do
         #link_text: Link Text
         additional_links:
           - title: Source Codes
             icon: fab fa-github
-            url: https://ai-korea.kr/main/main.do
+            url: https://github.com/Jasonlee1995/2020_NIPA
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - Final Competition : 1st place on KB insurance task
-          - Preliminary Competition : 1st place
+          - 1st place on Final Competition, KB insurance task
+          - 1st place on Preliminary Competition
+          - Check competition information, tasks and source codes from github
       - layout: left
         title: 2019 Summer NDM Contest
         link: https://cafe.naver.com/nexonndm
