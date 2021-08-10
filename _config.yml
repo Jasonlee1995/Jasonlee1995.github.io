@@ -94,8 +94,9 @@ content:
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Research Field 1. AutoAugment for Detection
-          - Research Field 2. Table Recognition
+          - Research Field 1. Semantic Segmentation for OCR
+          - Research Field 2. AutoAugment for Detection
+          - Research Field 3. Table Recognition
     #content:
       - layout: left
         title: SOTALabs
