@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   Always welcome for discussions and suggestions.
 
   Currently I'm working as
-  - computer vision researcher on [<mark>TmaxAI</mark>](https://www.tmax.co.kr/tmaxai)
+  - machine learning engineer on [<mark>DeepBio</mark>](https://www.deepbio.co.kr/)
   - research intern on [<mark>VI Lab</mark>](https://sites.google.com/yonsei.ac.kr/vi-lab/)
   - computer vision seminar, study team leader on [<mark>PoolC</mark>](https://poolc.org/intro)
   - computer vision seminar, study team leader on [<mark>DIYA</mark>](https://blog.diyaml.com/)
@@ -76,6 +76,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: DeepBio
+        sub_title: Machine Learning Engineer
+        caption: 2021.09 - present
+        link: https://www.deepbio.co.kr/
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research Field 1. Breast Cancer Survival Analysis
+          - Research Field 2. Generalized Backbone on Pathological Image
+    #content:
+      - layout: left
         title: Visual Intelligence Lab
         sub_title: Research Intern
         caption: 2021.06 - present
@@ -89,12 +100,12 @@ content:
       - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
-        caption: 2020.12 - present
+        caption: 2020.12 - 2021.08
         link: https://www.tmax.co.kr/tmaxai
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Research Field 1. Semantic Segmentation for OCR
+          - Research Field 1. OCR with low quality labels
           - Research Field 2. AutoAugment for Detection
           - Research Field 3. Table Recognition
     #content:
@@ -137,12 +148,23 @@ content:
         caption: 2020.04 - 2020.06
         link: https://sev.severance.healthcare/sev/index.do
         #quote: >
-        #  Work under professor Ahn
+        #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
           - Papaer Published on Neuroradiology [[paper]](https://pubmed.ncbi.nlm.nih.gov/32827069/)
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
+    #content:
+          - layout: left
+            title: (주)누아
+            sub_title: Research Intern
+            caption: 2019.12 - 2020.01
+            link: https://www.rocketpunch.com/companies/ju-nua/jobs
+            #quote: >
+            #  Short description of the company (optional)
+            description: | # this will include new lines to allow paragraphs
+              - Research Field 1. Rotated Image Generation
+              - Research Field 2. Subword Tokenizer for Korean
     #content:
       - layout: left
         title: Knowledge Based Design Lab
@@ -150,21 +172,10 @@ content:
         caption: 2019.01 - 2020.06
         link: https://kbd.yonsei.ac.kr/
         #quote: >
-        #  Work under professor Ahn
+        #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. SEPSIS Prediction
-          - Research Field 2. Autonomous Driving
-    #content:
-      - layout: left
-        title: (주)누아
-        sub_title: Research Intern
-        caption: 2019.12 - 2020.01
-        link: https://www.rocketpunch.com/companies/ju-nua/jobs
-        #quote: >
-        #  Work under professor Ahn
-        description: | # this will include new lines to allow paragraphs
-          - Research Field 1. Rotated Image Generation
-          - Research Field 2. Subword Tokenizer for Korean
+          - Research Field 2. Autonomous Driving for Mobile Robot
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
