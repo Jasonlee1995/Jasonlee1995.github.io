@@ -176,7 +176,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. SEPSIS Prediction
           - Research Field 2. Autonomous Driving for Mobile Robot
-
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
