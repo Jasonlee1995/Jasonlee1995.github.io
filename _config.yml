@@ -155,16 +155,16 @@ content:
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
     #content:
-          - layout: left
-            title: (주)누아
-            sub_title: Research Intern
-            caption: 2019.12 - 2020.01
-            link: https://www.rocketpunch.com/companies/ju-nua/jobs
-            #quote: >
-            #  Short description of the company (optional)
-            description: | # this will include new lines to allow paragraphs
-              - Research Field 1. Rotated Image Generation
-              - Research Field 2. Subword Tokenizer for Korean
+      - layout: left
+        title: (주)누아
+        sub_title: Research Intern
+        caption: 2019.12 - 2020.01
+        link: https://www.rocketpunch.com/companies/ju-nua/jobs
+        #quote: >
+        #  Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Research Field 1. Rotated Image Generation
+          - Research Field 2. Subword Tokenizer for Korean
     #content:
       - layout: left
         title: Knowledge Based Design Lab
