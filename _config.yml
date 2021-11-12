@@ -57,7 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   Currently I'm working as
   - machine learning engineer on [<mark>DeepBio</mark>](https://www.deepbio.co.kr/)
-  - research intern on [<mark>VI Lab</mark>](https://sites.google.com/yonsei.ac.kr/vi-lab/)
   - computer vision seminar, study team leader on [<mark>PoolC</mark>](https://poolc.org/intro)
   - computer vision seminar, study team leader on [<mark>DIYA</mark>](https://blog.diyaml.com/)
 
@@ -89,13 +88,13 @@ content:
       - layout: left
         title: Visual Intelligence Lab
         sub_title: Research Intern
-        caption: 2021.06 - present
+        caption: 2021.06 - 2021.11
         link: https://sites.google.com/yonsei.ac.kr/vi-lab/
         #quote: >
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Research Field 1. GAN Detection
-          - Research Field 2. Adversarial Attack
+          - Research Field 2. Self-Supervised Learning
     #content:
       - layout: left
         title: TmaxAI
