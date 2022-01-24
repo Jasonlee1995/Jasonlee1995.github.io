@@ -150,7 +150,7 @@ content:
         #  Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
-          - Papaer Published on Neuroradiology [[paper](https://pubmed.ncbi.nlm.nih.gov/32827069/)]
+          - Paper Published on Neuroradiology [[paper](https://pubmed.ncbi.nlm.nih.gov/32827069/)]
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
     #content:
