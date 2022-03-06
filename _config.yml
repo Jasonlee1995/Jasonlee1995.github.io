@@ -115,6 +115,7 @@ content:
           - Research Field 2. Subword Tokenizer for Korean
   - title: Lab Experience
     layout: list
+    content:
       - layout: left
         title: Visual Intelligence Lab
         sub_title: Research Intern
