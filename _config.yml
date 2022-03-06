@@ -69,6 +69,18 @@ content:
         sub_title: BA on Mechanical Engineering
         caption: 2014.03 - 2021.02
         link: https://www.yonsei.ac.kr/sc/
+  - title: Language
+    layout: list
+    content:
+      - layout: left
+        title: Korean
+        sub_title: Mother Tongue
+      - layout: left
+        title: English
+        sub_title: Fluent
+        description: |
+          - TOEIC 840 (LC 435, RC 405) on 2022.02.20.
+          - OPIc IM2 on 2020.04.08.
   - title: Work Experience
     layout: list
     content:
@@ -210,18 +222,6 @@ content:
         sub_title: Smart Mobility HW & SW Mentor
         caption: 2018.08 - 2018.10
         link: http://hyundaiautoeversmart.com/
-  - title: Language
-    layout: list
-    content:
-      - layout: left
-        title: Korean
-        sub_title: Mother Tongue
-      - layout: left
-        title: English
-        sub_title: Fluent
-        description: |
-          - TOEIC 840 (LC 435, RC 405) on 2022.02.20.
-          - OPIc IM2 on 2020.04.08.
 
 
   #- title: A Little More About Me
