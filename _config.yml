@@ -52,12 +52,12 @@ orcid_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Highly motivated on learning new things related with computer vision.
-  Always welcome for discussions and suggestions.
+  Highly motivated on learning new things related with deep learning.
+  Currently interested on narrowing the gap between academic and industry fields.
 
   Currently I'm working as
   - machine learning engineer on [<mark>DeepBio</mark>](https://www.deepbio.co.kr/)
-  - computer vision seminar, study team leader on [<mark>PoolC</mark>](https://poolc.org/intro)
+  - computer vision & deep learning seminar, study team leader on [<mark>PoolC</mark>](https://poolc.org/)
   - computer vision seminar, study team leader on [<mark>DIYA</mark>](https://blog.diyaml.com/)
 
 content:
@@ -69,9 +69,7 @@ content:
         sub_title: BA on Mechanical Engineering
         caption: 2014.03 - 2021.02
         link: https://www.yonsei.ac.kr/sc/
-        #description: | # this will include new lines to allow paragraphs
-        #  Description of qualification
-  - title: Careers
+  - title: Work Experience
     layout: list
     content:
       - layout: left
@@ -79,104 +77,80 @@ content:
         sub_title: Machine Learning Engineer
         caption: 2021.09 - present
         link: https://www.deepbio.co.kr/
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. Breast Cancer Survival Analysis
           - Research Field 2. Generalized Backbone on Pathological Image
-    #content:
-      - layout: left
-        title: Visual Intelligence Lab
-        sub_title: Research Intern
-        caption: 2021.06 - 2021.11
-        link: https://sites.google.com/yonsei.ac.kr/vi-lab/
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          - Research Field 1. GAN Detection
-          - Research Field 2. Self-Supervised Learning
-    #content:
       - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
         caption: 2020.12 - 2021.08
         link: https://www.tmax.co.kr/tmaxai
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. OCR with low quality labels
           - Research Field 2. AutoAugment for Detection
           - Research Field 3. Table Recognition
-    #content:
       - layout: left
         title: SOTALabs
         sub_title: Computer Vision Researcher
         caption: 2020.09 - 2020.11
         link: https://www.rocketpunch.com/companies/sotalabs
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. Fashion Image Retrieval
           - Research Field 2. Image Tagging
-    #content:
-      - layout: left
-        title: Computer Vision Lab
-        sub_title: Undergraduate Research Intern
-        caption: 2020.07 - 2020.08
-        link: https://cvlab.yonsei.ac.kr/
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          - Research Field 1. Person Re-Identification
-          - Research Field 2. Pedestrian Attribute Recognition
-    #content:
       - layout: left
         title: NAVER Corporation
         sub_title: AI-Rush Intern
         caption: 2020.08 - 2020.08
         link: https://www.naver.com/
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. Mislabeled Image Classification
           - Research Field 2. Music Genre Classification
-    #content:
-      - layout: left
-        title: SEVERANCE Hospital
-        sub_title: Undergraduate Research Intern
-        caption: 2020.04 - 2020.06
-        link: https://sev.severance.healthcare/sev/index.do
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
-          - Paper Published on Neuroradiology [[paper](https://pubmed.ncbi.nlm.nih.gov/32827069/)]
-          - Research Field 1. X-ray Image Joint Detection
-          - Research Field 2. Brain Tumor Image Segmentation and Classification
-    #content:
       - layout: left
         title: (주)누아
         sub_title: Research Intern
         caption: 2019.12 - 2020.01
         link: https://www.rocketpunch.com/companies/ju-nua/jobs
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. Rotated Image Generation
           - Research Field 2. Subword Tokenizer for Korean
-    #content:
+  - title: Lab Experience
+    layout: list
+      - layout: left
+        title: Visual Intelligence Lab
+        sub_title: Research Intern
+        caption: 2021.06 - 2021.11
+        link: https://sites.google.com/yonsei.ac.kr/vi-lab/
+        description: |
+          - Research Field 1. GAN Detection
+          - Research Field 2. Self-Supervised Learning
+      - layout: left
+        title: Computer Vision Lab
+        sub_title: Undergraduate Research Intern
+        caption: 2020.07 - 2020.08
+        link: https://cvlab.yonsei.ac.kr/
+        description: |
+          - Research Field 1. Person Re-Identification
+          - Research Field 2. Pedestrian Attribute Recognition
+      - layout: left
+        title: SEVERANCE Hospital
+        sub_title: Undergraduate Research Intern
+        caption: 2020.04 - 2020.06
+        link: https://sev.severance.healthcare/sev/index.do
+        description: |
+          - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
+          - Paper Published on Neuroradiology [[paper](https://pubmed.ncbi.nlm.nih.gov/32827069/)]
+          - Research Field 1. X-ray Image Joint Detection
+          - Research Field 2. Brain Tumor Image Segmentation and Classification
       - layout: left
         title: Knowledge Based Design Lab
         sub_title: Undergraduate Research Intern
         caption: 2019.01 - 2020.06
         link: https://kbd.yonsei.ac.kr/
-        #quote: >
-        #  Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - Research Field 1. SEPSIS Prediction
           - Research Field 2. Autonomous Driving for Mobile Robot
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Competitions
+    layout: list
     content:
       - layout: left
         title: 2020 NIPA AI Competition
@@ -186,9 +160,7 @@ content:
           - title: Source Codes
             icon: fab fa-github
             url: https://github.com/Jasonlee1995/2020_NIPA
-        #quote: >
-        #  Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - 1st place on Final Competition, KB insurance task
           - 1st place on Preliminary Competition
           - Check competition information, tasks and source codes from github
@@ -200,9 +172,7 @@ content:
           - title: Project Link
             #icon: fab fa-github
             url: https://poolc.org/project/12
-        #quote: >
-        #  Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - 1st place as university
           - Top-view mobile 2D shooting game with Unity
       - layout: left
@@ -213,14 +183,22 @@ content:
           - title: Project Link
             #icon: fab fa-github
             url: https://poolc.org/project/10
-        #quote: >
-        #  Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           - 2nd place as team
           - Mobile 2D shooting game with Unity
   - title: Other Activities
     layout: list
     content:
+      - layout: left
+        title: PoolC
+        sub_title: Computer Vision & Deep Learning Seminar Study Team Leader
+        caption: 2017.03 - present
+        link: https://poolc.org/
+      - layout: left
+        title: DIYA
+        sub_title: Computer Vision, Study Team Leader
+        caption: 2018.03 - present
+        link: https://blog.diyaml.com/
       - layout: left
         title: LIKELION
         sub_title: AI Assistant Instructor
@@ -231,6 +209,19 @@ content:
         sub_title: Smart Mobility HW & SW Mentor
         caption: 2018.08 - 2018.10
         link: http://hyundaiautoeversmart.com/
+  - title: Language
+    layout: list
+    content:
+      - layout: left
+        title: Korean
+        sub_title: Mother Tongue
+      - layout: left
+        title: English
+        sub_title: Fluent
+        description: |
+          - TOEIC 840 (LC 435, RC 405) on 2022.02.20.
+          - OPIc IM2 on 2020.04.08.
+
 
   #- title: A Little More About Me
     #layout: text
