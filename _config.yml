@@ -90,17 +90,17 @@ content:
         caption: 2021.09 - present
         link: https://www.deepbio.co.kr/
         description: |
-          - Research Field 1. Breast Cancer Survival Analysis
-          - Research Field 2. Generalized Backbone on Pathological Image
+          - Research Field 1. Learning General Representation on Pathology Images
+          - Research Field 2. Self-supervised Learning on Pathology Images
       - layout: left
         title: TmaxAI
         sub_title: Computer Vision Researcher
         caption: 2020.12 - 2021.08
         link: https://www.tmax.co.kr/tmaxai
         description: |
-          - Research Field 1. OCR with low quality labels
-          - Research Field 2. AutoAugment for Detection
-          - Research Field 3. Table Recognition
+          - Research Field 1. OCR with Low-quality Labels
+          - Research Field 2. Augmentation for Detection & Classification
+          - Research Field 3. Table Recognition and Data Preprocessing
       - layout: left
         title: SOTALabs
         sub_title: Computer Vision Researcher
@@ -108,15 +108,15 @@ content:
         link: https://www.rocketpunch.com/companies/sotalabs
         description: |
           - Research Field 1. Fashion Image Retrieval
-          - Research Field 2. Image Tagging
+          - Research Field 2. Fashion Image Multi-label Tagging
       - layout: left
         title: NAVER Corporation
         sub_title: AI-Rush Intern
         caption: 2020.08 - 2020.08
         link: https://www.naver.com/
         description: |
-          - Research Field 1. Mislabeled Image Classification
-          - Research Field 2. Music Genre Classification
+          - Research Field 1. Learning General Representation on Noisy Image Dataset
+          - Research Field 2. Music Genre Classification with Meta Information
       - layout: left
         title: (주)누아
         sub_title: Research Intern
@@ -129,24 +129,32 @@ content:
     layout: list
     content:
       - layout: left
+        title: DAVIAN Lab
+        sub_title: Research Intern
+        caption: 2022.03 - present
+        link: http://davian.uldesign17.co.kr/
+        description: |
+          - Research Field 1. Research on Learning De-biased Representation from Biased Dataset
+          - Research Field 2. Research on Out-of-Distribution Detection
+      - layout: left
         title: Visual Intelligence Lab
         sub_title: Research Intern
         caption: 2021.06 - 2021.11
         link: https://sites.google.com/yonsei.ac.kr/vi-lab/
         description: |
-          - Research Field 1. GAN Detection
-          - Research Field 2. Self-Supervised Learning
+          - Research Field 1. Research on GAN Detection
+          - Research Field 2. Research on Self-supervised Learning
       - layout: left
         title: Computer Vision Lab
         sub_title: Undergraduate Research Intern
         caption: 2020.07 - 2020.08
         link: https://cvlab.yonsei.ac.kr/
         description: |
-          - Research Field 1. Person Re-Identification
-          - Research Field 2. Pedestrian Attribute Recognition
+          - Research Field 1. Research on Person Re-Identification
+          - Research Field 2. Research on Pedestrian Attribute Recognition
       - layout: left
         title: SEVERANCE Hospital
-        sub_title: Undergraduate Research Intern
+        sub_title: Undergraduate Intern
         caption: 2020.04 - 2020.06
         link: https://sev.severance.healthcare/sev/index.do
         description: |
@@ -156,7 +164,7 @@ content:
           - Research Field 2. Brain Tumor Image Segmentation and Classification
       - layout: left
         title: Knowledge Based Design Lab
-        sub_title: Undergraduate Research Intern
+        sub_title: Undergraduate Intern
         caption: 2019.01 - 2020.06
         link: https://kbd.yonsei.ac.kr/
         description: |
