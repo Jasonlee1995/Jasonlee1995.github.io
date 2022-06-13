@@ -160,7 +160,7 @@ content:
         link: https://sev.severance.healthcare/sev/index.do
         description: |
           - Worked under [Professor Ahn](https://www.medieus.com/sub_detail/doctor_detail.asp?doc_num=46346)
-          - Paper Published on Neuroradiology [[paper](https://pubmed.ncbi.nlm.nih.gov/32827069/)]
+          - [Paper](https://pubmed.ncbi.nlm.nih.gov/32827069/) Published on Neuroradiology
           - Research Field 1. X-ray Image Joint Detection
           - Research Field 2. Brain Tumor Image Segmentation and Classification
       - layout: left
@@ -213,12 +213,12 @@ content:
     content:
       - layout: left
         title: PoolC
-        sub_title: Computer Vision & Deep Learning Seminar Study Team Leader
+        sub_title: Computer Vision & Deep Learning Seminar and Study Team Lead
         caption: 2017.03 - present
         link: https://poolc.org/
       - layout: left
         title: DIYA
-        sub_title: Computer Vision, Study Team Leader
+        sub_title: Computer Vision Project and Study Team Lead
         caption: 2018.03 - present
         link: https://blog.diyaml.com/
       - layout: left
