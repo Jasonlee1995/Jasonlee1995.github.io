@@ -222,6 +222,11 @@ content:
         caption: 2018.03 - present
         link: https://blog.diyaml.com/
       - layout: left
+        title: elice
+        sub_title: Data Coach
+        caption: 2022.04 - 2022.05
+        link: https://elice.io/
+      - layout: left
         title: LIKELION
         sub_title: AI Assistant Instructor
         caption: 2020.10 - 2020.12
