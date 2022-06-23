@@ -112,7 +112,7 @@ content:
           - Research Field 2. Fashion Image Multi-label Tagging
       - layout: left
         title: NAVER Corporation
-        sub_title: AI-Rush Intern
+        sub_title: AI RUSH Intern
         caption: 2020.08 - 2020.08
         link: https://www.naver.com/
         description: |
@@ -186,6 +186,13 @@ content:
           - 1st place on Final Competition, KB insurance task
           - 1st place on Preliminary Competition
           - Check competition information, tasks and source codes from github
+      - layout: left
+        title: 2020 NAVER AI RUSH
+        link: https://campaign.naver.com/airush/
+        #link_text: Link Text
+        description: |
+          - NAVER Smartstore spam image filtering
+          - Top-rank and join as intern
       - layout: left
         title: 2019 Summer NDM Contest
         link: https://cafe.naver.com/nexonndm
