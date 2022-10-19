@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jae Seong Lee
-title: Computer Vision Researcher
+title: AI Researcher
 email: jacklee95@naver.com
 # email_title: Email (Email title override)
 phone:
@@ -54,10 +54,9 @@ about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Highly motivated on learning new things related with deep learning.
   Currently interested on narrowing the gap between academic and industry fields.
-  
-  I'm currently looking for a job!
 
   Currently, I'm working as
+  - full-time AI researcher in [<mark>ActionPower</mark>](https://actionpower.kr/)
   - computer vision & deep learning seminar, study team leader in [<mark>PoolC</mark>](https://poolc.org/)
   - computer vision seminar, study team leader in [<mark>DIYA</mark>](https://blog.diyaml.com/)
 
@@ -85,6 +84,13 @@ content:
   - title: Work Experience
     layout: list
     content:
+      - layout: left
+        title: ActionPower
+        sub_title: AI Researcher
+        caption: 2022.10 - present
+        link: https://actionpower.kr/
+        description: |
+          - Research Field 1. Speaker Diarization
       - layout: left
         title: DeepBio
         sub_title: Machine Learning Engineer
