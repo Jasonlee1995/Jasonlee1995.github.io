@@ -92,7 +92,6 @@ content:
         description: |
           - Research Field 1. Dataset Construction
           - Research Field 2. Self-supervised Learning on Speech
-          - Research Field 3. Speaker Diarization
       - layout: left
         title: DeepBio
         sub_title: Machine Learning Engineer
