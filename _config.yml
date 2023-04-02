@@ -53,12 +53,11 @@ orcid_username:
 about_profile_image: images/avatar.png
 about_content: | # this will include new lines to allow paragraphs
   Highly motivated on learning new things related with deep learning.
-  Currently interested on narrowing the gap between academic and industry fields.
+  Currently interested in example difficulty and dataset construction.
 
   Currently, I'm working as
   - full-time AI researcher in [<mark>ActionPower</mark>](https://actionpower.kr/)
   - computer vision & deep learning seminar, study team leader in [<mark>PoolC</mark>](https://poolc.org/)
-  - computer vision seminar, study team leader in [<mark>DIYA</mark>](https://blog.diyaml.com/)
 
 content:
   - title: Education
@@ -241,8 +240,8 @@ content:
         link: https://poolc.org/
       - layout: left
         title: DIYA
-        sub_title: Computer Vision Project and Study Team Lead
-        caption: 2018.03 - present
+        sub_title: Computer Vision Team Lead
+        caption: 2018.03 - 2023.02
         link: https://blog.diyaml.com/
       - layout: left
         title: elice
