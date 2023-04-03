@@ -190,6 +190,7 @@ content:
           - Face age prediction
       - layout: left
         title: 2020 NIPA AI Competition
+        caption: 2020.10 - 2020.11
         link: https://ai-korea.kr/main/main.do
         #link_text: Link Text
         additional_links:
@@ -200,6 +201,13 @@ content:
           - 1st place on Final Competition, KB insurance task
           - 1st place on Preliminary Competition
           - Check competition information, tasks and source codes from github
+      - layout: left
+        title: 꿈꾸는아이(AI) 경진대회 시즌 1
+        caption: 2020.10 - 2020.11
+        link: https://dreamai.kr/fair_lge
+        #link_text: Link Text
+        description: |
+          - GAN detection
       - layout: left
         title: 2020 NAVER AI RUSH
         caption: 2020.07 - 2020.07
