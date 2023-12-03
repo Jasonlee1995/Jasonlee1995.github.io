@@ -136,6 +136,14 @@ content:
     layout: list
     content:
       - layout: left
+        title: OptiML Lab
+        sub_title: Research Intern
+        caption: 2023.07 - 2023.12
+        link: https://chulheeyun.github.io/
+        description: |
+          - Research Field 1. Research on Measuring Example Difficulty
+          - Research Field 2. Research on Last Layer Re-training on Extreme Dataset (class imbalance, spurious correlation, label noise)
+      - layout: left
         title: DAVIAN Lab
         sub_title: Research Intern
         caption: 2022.03 - 2022.08
